@@ -1,4 +1,4 @@
-package org.example;
+package org.example.card1;
 
 public class Calculadora {
 
